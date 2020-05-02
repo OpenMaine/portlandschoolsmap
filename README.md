@@ -2,6 +2,8 @@
 
 This is a basic google map and shareable web graphic for school pickup locations during COVID-19. 
 
+![PPSMeals_May4](https://user-images.githubusercontent.com/3193746/80870527-01f33600-8c75-11ea-86f4-367be5de8262.jpg)
+
 ## Project Purpose and Info
 
 The purpose of this basic pickup map is to present a way to easily show food pickup locations for Portland Public Schools parents and families. The school district created a list and a press release of food locations. The first map was created and shared on March 17.
